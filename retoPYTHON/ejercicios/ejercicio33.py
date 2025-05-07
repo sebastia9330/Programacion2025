@@ -20,7 +20,7 @@ print(f"Las vocales de la frase {cadena} son {fin_vocales}")
 # Ejercicio 33 mejorado
 cadena = input("Ingrese una frase: ").lower()
 
-vocales = ["a", "e", "i", "o", "u"]
+vocales = ["a", "e", "i", "o", "u","á", "é", "´í", "ó", "ú"]
 fin_vocales = []
 
 for caracter in cadena:
