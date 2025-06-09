@@ -5,7 +5,7 @@
 #Usa un bucle (for o while) para generar la tabla.
 #Muestra el resultado en el formato:
 #python
-#Copiar código
+#
 #3 x 1 = 3
 #3 x 2 = 6
 #...
